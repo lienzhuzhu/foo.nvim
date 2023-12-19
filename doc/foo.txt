@@ -1,0 +1,5 @@
+==========================================================================
+INTRODUCTION                                                    *foo.nvim*
+
+Foo is a dummy plugin that exists merely to provide a template for plugin
+development.
